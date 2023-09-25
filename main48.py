@@ -1,4 +1,4 @@
-# Inorder Traersal(Iterative)
+# Inorder Traversal(Iterative)
 class Node:
     def __init__(self, data):
         self.data = data
