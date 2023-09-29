@@ -1,4 +1,4 @@
-# Adding numbers represented by Linked List
+# Adding two numbers represented by Linked List to store each digit of the operands
 class Node:
     def __init__(self, data):
         self.data = data
